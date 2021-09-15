@@ -28,4 +28,3 @@ Werkzeug
 wincertstore
 gunicorn
 streamlit
-pickle
